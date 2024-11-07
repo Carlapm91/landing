@@ -1,0 +1,99 @@
+.barrasuperior {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: aliceblue;
+    background-color: #788b6b;
+}
+
+.collapse {
+    justify-content: end;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-right: 2rem;
+}
+
+.navbar-brand {
+    margin-left: 3rem;
+}
+
+.titulobanner {
+    margin-top: 8rem;
+    margin-left: 3rem;
+    padding-right: 8rem;
+    font-size: 35px;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.parrafobanner{
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+
+.botonbanner{
+    margin-left: 3rem;
+}
+
+.imagenbanner{
+    width: 700px;
+    margin-left: 7rem;
+}
+
+.custom-icon {
+    width: 3em; 
+    object-fit: contain; 
+    margin-left: -1rem;
+
+}
+.preguntasyrespuestas{
+    background-color: #f5f6f7;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    margin: 0;
+}
+
+.preguntasyrespuestas{
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.accordion-button{
+    font-size: 22px;
+}
+
+.videomastexto h5{
+    font-size: 20px;
+}
+.residuos{
+    width: 100px;
+}
+
+.icon-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.icono {
+    width: 50px; /* Tamaño del ícono */
+    margin-bottom: 10px; /* Espacio entre el ícono y el texto */
+}
+
+.iconomascajas{
+    margin-top: 2rem;
+    border: none;
+    background-color: #f5f6f7;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    color: black
+
+}
+
+.carousel-item{
+    height: 40rem;
+}
